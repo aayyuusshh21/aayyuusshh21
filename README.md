@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://aayyuusshh21@github.io)
 <h1 align="center">Hi 👋, I'm Ayush SIngh</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A Full Stack Web Developer with 1000+ hours of hands-on experience in developing scalable websites using a wide range of front-end and beac-end skills like HTML, CSS, JavaScript, React, Redux, etc. Looking forward to enhance my skills as the future full stack web developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayyuusshh21" alt="aayyuusshh21" /></a> </p>
