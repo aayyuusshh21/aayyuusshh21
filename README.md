@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **aayyuusshh21@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1HuH_jfgWdOdrj-5RvAtNnCooEsWClehy/view?usp=sharing)
+- 📄 Know about my experiences (shorturl.at/bjGLS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
