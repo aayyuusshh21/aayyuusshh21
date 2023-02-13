@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://aayyuusshh21.github.io/](https://aayyuusshh21.github.io/)
+- 👨‍💻 All of my projects are available at [https://aayyuusshh21.github.io/]
 
 - 📫 How to reach me **aayyuusshh21@gmail.com**
 
