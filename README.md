@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://aayyuusshh21.github.io/]
+- 👨‍💻 All of my projects are available at https://aayyuusshh21.github.io/
 
 - 📫 Reach me at **aayyuusshh21@gmail.com**
 
-- 📄 Know about my experiences (shorturl.at/bjGLS)
+- 📄 Know about my experiences https://shorturl.at/bjGLS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
