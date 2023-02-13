@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aayyuusshh21.github.io/]
 
-- 📫 How to reach me **aayyuusshh21@gmail.com**
+- 📫 Reach me at **aayyuusshh21@gmail.com**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1HuH_jfgWdOdrj-5RvAtNnCooEsWClehy/view?usp=sharing)
 
